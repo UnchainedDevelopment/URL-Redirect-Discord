@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OAuth2 Redirect</title>
+    OAuth2 Redirect
 </head>
 <body>
     <h1>OAuth2 Redirect URI</h1>
